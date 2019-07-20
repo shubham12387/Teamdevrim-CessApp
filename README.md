@@ -26,6 +26,8 @@ After Downloading the project -
 
 10) Run the app
 
+Quick Glimpse of our Cess App ~
+
 ![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/29892678/61576686-b4db1480-aae5-11e9-8561-11e0af345eb9.png)
 
 ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/29892678/61576733-2a46e500-aae6-11e9-9bbe-6c0872ebd354.png)
